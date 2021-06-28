@@ -1,0 +1,12 @@
+# Intellij
+.idea
+*.iml
+
+# Terraform
+.terraform
+terraform.tfvars
+errored.tfstate
+
+# Temp
+tmp
+.tmp
